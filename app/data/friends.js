@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Thor',
-        photo: 'https://i.pinimg.com/originals/9e/fd/4c/9efd4c21ea7d8eb345904274a87aba68.jpg'
+        photo: 'https://i.pinimg.com/originals/9e/fd/4c/9efd4c21ea7d8eb345904274a87aba68.jpg',
 		scores: [
 			'1',
 			'1',
